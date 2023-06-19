@@ -1,0 +1,31 @@
+body {
+    width: 100%;
+    min-height: 100vh;
+    background-position: center;
+    background-image: linear-gradient(to bottom right, purple, rgb(9, 230, 226));
+    background-size: cover;
+}
+
+/* .menubar {
+    font-size: 2rem;
+    color: whitesmoke;
+} */
+
+a {
+    color: #c2c9cf;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+ 
